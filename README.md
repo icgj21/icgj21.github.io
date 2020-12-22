@@ -1,5 +1,5 @@
 <img src="https://lh3.googleusercontent.com/kWsb2JWVdc3SUHnAA4fvyUxQBX3jFOADVfmnxA7PNUrao3SOqeF8LB6lmRgekHNMA9Ld3Uk=w16383"
-     alt="International Conference on Game Jams and Hackathons Logo" />
+     alt="International Conference on Game Jams and Hackathons Logo"  style="float: center"  />
 
 ## Welcome to ICGJ
 
