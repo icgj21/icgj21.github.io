@@ -60,10 +60,13 @@ Event and showcase report submissions will undergo a single-anonymous review pro
 ### Organization Committee
 
 #### Conference Chair
-	Kiev Gama, Federal University of Pernambuco (Brazil)
+	Kiev Gama, Federal University of Pernambuco (Brazil)	
+
 #### Program Chairs
 	Jeanette Falk, Aarhus University (Denmark)
 	Alexey Izvalov, Flight Academy of the National Aviation University (Ukraine)
+	
+
 #### Proceedings Chair
 	Gorm Lai, Goldsmiths, University of London (UK)
      
