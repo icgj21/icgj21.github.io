@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/kWsb2JWVdc3SUHnAA4fvyUxQBX3jFOADVfmnxA7PNUrao3SOqeF8LB6lmRgekHNMA9Ld3Uk=w16383"
+<img src="ICGJ_LOGO.png"
      alt="International Conference on Game Jams and Hackathons Logo"  style="float: center"  />
 
 ## Welcome to ICGJ
@@ -52,9 +52,24 @@ Event and showcase report submissions will undergo a single-anonymous review pro
 
 ### Important Dates
 
-TBD
+- Monday, April 19th - Submission deadline 
+- Friday, June 4th - Decision Notification
+- Monday, July 5th - Camera Ready
+- Monday, August 2nd - ICGJ'21
 
 ### Organization Committee
 
-TBD
+#### Conference Chair
+	Kiev Gama, Federal University of Pernambuco (Brazil)
+#### Program Chairs
+	Jeanette Falk, Aarhus University (Denmark)
+	Alexey Izvalov, Flight Academy of the National Aviation University (Ukraine)
+#### Proceedings Chair
+	Gorm Lai, Goldsmiths, University of London (UK)
+     
+     
+### Program Committee
+
+Available soon
+
 
