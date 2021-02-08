@@ -1,9 +1,11 @@
 <img src="ICGJ_LOGO.png"
      alt="International Conference on Game Jams and Hackathons Logo"  style="float: center"  />
 
+<a href="https://twitter.com/icgj_conf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @icgj_conf</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Welcome to ICGJ
 
-We are pleased to announce the sixth annual International Conference on Game Jams, Hackathons, and Game Creation Events (ICGJ 2021). ICGJ is an interdisciplinary conference for educators, researchers, professionals, and event organizers across various fields related to game jams and hackathons. The one-day conference will be hosted online and is virtually co-located with Foundations of Digital Games ([FDG 2021](http://fdg2021.org/)). The conference builds on an expanding number of conferences, workshops series and research evaluating, enhancing, and improving game creation events. The proceedings will be published in the ACM Digital Library.
+We are pleased to announce the sixth annual International Conference on Game Jams, Hackathons, and Game Creation Events (ICGJ 2021). ICGJ is an interdisciplinary conference for educators, researchers, professionals, and event organizers across various fields related to game jams and hackathons. The one-day conference will be hosted online and is virtually co-located with Foundations of Digital Games ([FDG 2021](http://fdg2021.org/)). The conference builds on an expanding number of conferences, workshops series and research evaluating, enhancing, and improving game creation events. We intend to publish the proceedings in the ACM Digital Library, as in previous editionns.
 
 
 You can check the previous ICGJ proceedings available in the [ACM Digital Library](https://dl.acm.org/conference/icgj) 
