@@ -55,7 +55,7 @@ Event and showcase report submissions will undergo a single-blind review process
 
 ### Important Dates
 
-- Monday, April 19th - Submission deadline 
+- Monday, April 26th - Submission deadline 
 - Friday, June 4th - Decision Notification
 - Monday, July 5th - Camera Ready
 - Monday, August 2nd - ICGJ'21
