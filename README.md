@@ -75,5 +75,5 @@ Event and showcase report submissions will undergo a single-blind review process
      
 
 <p>
-<center>ICGJ is generously supported by the Global Game Jam, Inc.</center>
+<center>ICGJ is generously supported by the <a href="https://globalgamejam.org/">Global Game Jam, Inc.</a></center>
 
