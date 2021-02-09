@@ -74,5 +74,6 @@ Event and showcase report submissions will undergo a single-blind review process
 	Gorm Lai, Goldsmiths, University of London (UK)
      
 
-
+<p>
+<center>ICGJ is generously supported by the Global Game Jam, Inc.</center>
 
