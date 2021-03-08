@@ -74,21 +74,21 @@ Event and showcase report submissions will undergo a single-blind review process
 	Gorm Lai, Goldsmiths, University of London (UK)
      
 #### Program Committee
-	Ali Arya, Carleton University, Canada
-	Allan Fowler, University of Auckland, New Zealand
-	Annakaisa Kultima,	Aalto University, Finland
-	Daniel Cermak-Sassenrath, IT University of Copenhagen, Denmark
-	Foaad Khosmood, California Polytechnic State University, USA
-	Hanna Wirman, IT University of Copenhagen, Denmark  
-	Ian Schreiber,	Rochester Institute of Technology, USA
-	Lindsay D. Grace, University of Miami, USA
-	Martin Pichlmair, IT University of Copenhagen, Denmark
-	Menno Deen, Games [4Diversity], The Netherlands
-	Mikko Meriläinen, Tampere University, Finland
-	Sílvia Fornós, IT University of Copenhagen, Denmark
-	Timo Nummenmaa,	Tampere University, Finland
-	Ville Kankainen, Tampere University, Finland
-	Nia Wearn, Staffordshire University, UK
+	Ali Arya, Carleton University (Canada)
+	Allan Fowler, University of Auckland (New Zealand)
+	Annakaisa Kultima, Aalto University (Finland)
+	Daniel Cermak-Sassenrath, IT University of Copenhagen (Denmark)
+	Foaad Khosmood, California Polytechnic State University (USA)
+	Hanna Wirman, IT University of Copenhagen (Denmark)  
+	Ian Schreiber, Rochester Institute of Technology (USA)
+	Lindsay D. Grace, University of Miami (USA)
+	Martin Pichlmair, IT University of Copenhagen (Denmark)
+	Menno Deen, Games [4Diversity] (The Netherlands)
+	Mikko Meriläinen, Tampere University (Finland)
+	Sílvia Fornós, IT University of Copenhagen (Denmark)
+	Timo Nummenmaa,	Tampere University (Finland)
+	Ville Kankainen, Tampere University (Finland)
+	Nia Wearn, Staffordshire University (UK)
 
 <p>
 <center>ICGJ is generously supported by the <a href="https://globalgamejam.org/">Global Game Jam, Inc.</a></center>
