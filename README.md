@@ -89,6 +89,9 @@ Event and showcase report submissions will undergo a **single-blind review proce
 	Timo Nummenmaa,	Tampere University (Finland)
 	Ville Kankainen, Tampere University (Finland)
 	Nia Wearn, Staffordshire University (UK)
+	
+### Contact
+icgj2021 at easychair dot org
 
 <p>
 <center>ICGJ is generously supported by the <a href="https://globalgamejam.org/">Global Game Jam, Inc.</a></center>
