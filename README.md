@@ -58,7 +58,9 @@ Event and showcase report submissions will undergo a **single-blind review proce
 - Monday, April 26th - Submission deadline 
 - Friday, June 4th - Decision Notification
 - Monday, July 5th - Camera Ready
-- Monday, August 2nd - ICGJ'21
+- Monday, August 2nd  - ICGJ'21
+
+All deadlines are at the Anywhere on Earth (AoE) UTC-12 time zone.
 
 ### Organization Committee
 
