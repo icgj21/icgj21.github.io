@@ -52,6 +52,10 @@ Full and short paper submissions will undergo a **double-blind review process** 
 
 Event and showcase report submissions will undergo a **single-blind review process** (i.e., identification of authors have to be in the text of the report). Selected submissions will be published on the ICGJ 2021 website and presented at the conference. Report submissions should utilize the double column ACM template which is available at [https://www.acm.org/publications/taps/word-template-workflow](https://www.acm.org/publications/taps/word-template-workflow). These submissions do NOT need to be anonymized. They should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=icgj2021) before the deadline.
 
+For LaTeX users, please use the following to enable the double-column format in the ACM template:
+```
+\\documentclass\[sigconf,authordraft\]{acmart}
+```
 
 ### Important Dates
 
