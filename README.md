@@ -54,7 +54,7 @@ Event and showcase report submissions will undergo a **single-blind review proce
 
 For LaTeX users, please use the following to enable the double-column format in the ACM template:
 ```
-\\documentclass\[sigconf,authordraft\]{acmart}
+\documentclass[sigconf,authordraft]{acmart}
 ```
 
 ### Important Dates
