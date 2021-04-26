@@ -59,7 +59,7 @@ For LaTeX users, please use the following to enable the double-column format in 
 
 ### Important Dates
 
-- Monday, April 26th - Submission deadline 
+- Monday, ~~April 26th~~ May 5th - Submission deadline 
 - Friday, June 4th - Decision Notification
 - Monday, July 5th - Camera Ready
 - Monday, August 2nd  - ICGJ'21
