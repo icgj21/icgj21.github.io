@@ -83,6 +83,7 @@ All deadlines are at the Anywhere on Earth (AoE) UTC-12 time zone.
 	Ali Arya, Carleton University (Canada)
 	Allan Fowler, University of Auckland (New Zealand)
 	Annakaisa Kultima, Aalto University (Finland)
+	Alexander Nolte, University of Tartu (Estonia) & Carnegie Mellon University (USA)
 	Daniel Cermak-Sassenrath, IT University of Copenhagen (Denmark)
 	Foaad Khosmood, California Polytechnic State University (USA)
 	Hanna Wirman, IT University of Copenhagen (Denmark)  
