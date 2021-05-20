@@ -59,8 +59,9 @@ For LaTeX users, please use the following to enable the double-column format in 
 
 ### Important Dates
 
-- Monday, ~~April 26th~~ May 5th - Submission deadline 
-- Friday, June 4th - Decision Notification
+- Wednesday, ~~April 26th~~ May 5th - Submission deadline 
+- Friday, June 4th - Submission deadline for showcase reports (Game Jam Game and Hackathon Projects)
+- Friday, June 4th - Decision Notification (Full papers, short papers and event reports)
 - Monday, July 5th - Camera Ready
 - Monday, August 2nd  - ICGJ'21
 
