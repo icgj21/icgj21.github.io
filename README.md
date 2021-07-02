@@ -67,6 +67,40 @@ For LaTeX users, please use the following to enable the double-column format in 
 
 All deadlines are at the Anywhere on Earth (AoE) UTC-12 time zone.
 
+### Conference Program
+15:00 UTC: Welcome and Keynote
+
+16:00 UTC: Break 
+
+16:15 UTC: Session 1 
+
+- Full paper: *Two Decades of Game Jam* (Gorm Lai, Annakaisa Kultima, Foaad Khosmood, Johanna Pirker, Allan Fowler, Ilaria Vecchi, William Latham and Frederic Fol Leymarie)
+- Full paper: *Game Jam Natives? The Rise of the Game Jam Era in Game Development Cultures* (Annakaisa Kultima)
+- Short paper: *Negative Game Jam Experiences* (Annakaisa Kultima)
+- Event report: *Pizza and Coffee Make a Game Jam - Learnings from Organizing an Online Game Development Event* (Elina Koskinen) 
+
+17:15 UTC: Break
+
+17:30 UTC: Session 2
+
+- Full paper: *How Organisers Understand and Promote Participants’Creativity in Game Jams* (Jeanette Falk, Michael Mose Biskjaer, Kim Halskov and Annakaisa Kultima)
+- Full paper: *Leadership Styles of Game Jam Organizers* (Travis Faas and Zhicong Lu)
+- Short paper: *Piloting a Game Jam in Nigeria to Support Empathy and Compassion* (Karen Schrier, Eugene Ohu, Ikeola Bodunde, Morenike Alugo, Cynthia Emami and Adeola Babatunde)
+- Event report: *A&B Game Jam - Enhancing the Online Game Jam Experience With Milestones* (Mateus Camara, Marcio Oyamada, Daniel Boll, Davi Giacomel, Felipi Matozinho, Gustavo Nomelini, Igor Negrizoli, Leonardo Vanzin, Lucas Amorim, Lucas Sá, Marco Damo, Mateus Silveira, Matheus Ismael, Roberta Alcantara and Vinicius Freitas)
+
+18:30 UTC: Break
+
+18:45 UTC: Session 3
+
+- Full paper: *An Exploratory Study on the participation of LGBTQIA+ people in the Global Game Jam 2021* (Dayanne Oliveira, Rafa Prado, Kiev Gama and George Valença.)
+- Full paper: *Taking the Challenge: An Exploratory Study on What Motivates Jammers to Participate in Game Jams* (Leandro Almeida, Cleidson de Souza, Marcelo Perin, Fernando Figueira Filho, Any Batista and Fabio da Silva Jr.)
+- Short paper: *Expert-driven Game Jams for Open Online Learning: Lessons Learned from Four Games Now! Online Game Jams during the COVID-19 Pandemic* (Annakaisa Kultima, Ville Kankainen, Solip Park, Riikka Aurava, Laura Piispanen and Tomi Kauppinen)
+- Event report: *Organizing online hackathons for newcomers to a scientific community - Lessons learned from two events* (Jeaime Powell, Linda Bailey Hayden, Amy Cannon, Boyd Wilson and Alexander Nolte)
+
+19:45 UTC: Final announcements
+
+20:00 UTC: Online social event
+
 ### Organization Committee
 
 #### Conference Chair
@@ -85,18 +119,28 @@ All deadlines are at the Anywhere on Earth (AoE) UTC-12 time zone.
 	Ali Arya, Carleton University (Canada)
 	Allan Fowler, University of Auckland (New Zealand)
 	Annakaisa Kultima, Aalto University (Finland)
-	Daniel Cermak-Sassenrath, IT University of Copenhagen (Denmark)
+	Daniel Cermak, Auckland University of Technology (New Zealand)
+	Darshana Jayemanne, Abertay University (UK)
 	Foaad Khosmood, California Polytechnic State University (USA)
-	Hanna Wirman, IT University of Copenhagen (Denmark)  
+	Hanna Wirman, IT University of Copenhagen (Denmark)
 	Ian Schreiber, Rochester Institute of Technology (USA)
+	Ida Jørgensen, IT University of Copenhagen (Denmark)
+	Ida Toft, Concordia University (Canada)
+	Johanna Pirker, Graz University of Technology (Austria)
+	Kati Alha, Tampere University (Finland)
 	Lindsay D. Grace, University of Miami (USA)
+	Marcus Toftedahl, University of Skövde (Sweden)
 	Martin Pichlmair, IT University of Copenhagen (Denmark)
 	Menno Deen, Games [4Diversity] (The Netherlands)
-	Mikko Meriläinen, Tampere University (Finland)
-	Sílvia Fornós, IT University of Copenhagen (Denmark)
-	Timo Nummenmaa,	Tampere University (Finland)
-	Ville Kankainen, Tampere University (Finland)
+	Mikko Meriläinen, University of Helsinki (Finland)
 	Nia Wearn, Staffordshire University (UK)
+	Nina Croitoru, IT University of Copenhagen (Denmark)
+	Riikka Aurava, Tampere University (Finland)
+	Sabine Harrer, Uppsala University (Sweden)
+	Sergey Artemenko, Odessa National Academy of Food Technology (Ukraine)
+	Silvia Fornós, IT University of Copenhagen (Denmark)
+	Timo Nummenmaa, Tampere University (Finland)
+	Ville Kankainen, Tampere University (Finland)
 	
 ### Contact
 icgj2021 at easychair dot org
