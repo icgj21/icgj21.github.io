@@ -67,8 +67,14 @@ For LaTeX users, please use the following to enable the double-column format in 
 
 All deadlines are at the Anywhere on Earth (AoE) UTC-12 time zone.
 
+
+### Registration
+
+The link for registering to our conference is available at [Eventbrite](https://www.eventbrite.com/e/icgj-2021-tickets-162692988107)
+
+
 ### Conference Program
-15:00 UTC: Welcome and Keynote
+15:00 UTC: Welcome + Keynote ([Alexis Hope](http://www.alexishope.com/))
 
 16:00 UTC: Break 
 
@@ -100,6 +106,12 @@ All deadlines are at the Anywhere on Earth (AoE) UTC-12 time zone.
 19:45 UTC: Final announcements
 
 20:00 UTC: Online social event
+
+### Conference Keynote Speaker
+
+<img src="alexishope.png " align="left" width="200px"/>
+Alexis Hope is an artist, designer, and researcher. She serves as the Design Director for the “Make the Breast Pump Not Suck” project, as well as the Creative Director of TEN FWD, a design studio focused on creating playful, experimental objects and experiences. Alexis is currently finishing her doctorate at the MIT Media Lab, where she explores community innovation and participatory design. She was a National Science Foundation Graduate Research Fellow from 2012 - 2015, and is currently a LEGO Papert Fellow. In her free time, she watches too much Star Trek, hosts an art event called “Trash Club,” and sings in a band called Calico Beach Party.
+<br clear="left"/>
 
 ### Organization Committee
 
