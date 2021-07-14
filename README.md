@@ -1,7 +1,11 @@
 <img src="ICGJ_LOGO.png"
      alt="International Conference on Game Jams and Hackathons Logo"  style="float: center"  />
 
-<a href="https://twitter.com/icgj_conf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @icgj_conf</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://www.eventbrite.com/e/icgj-2021-tickets-162692988107"><img src="register.png" align="right" width="200px"/></a>
+
+
+<a href="https://twitter.com/icgj_conf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" align="left">Follow @icgj_conf</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Welcome to ICGJ
 
