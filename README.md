@@ -79,7 +79,7 @@ The link for registering to our conference is available at [Eventbrite](https://
 
 
 ### Conference Program
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&dates=20210802&amp;ctz=America%2FRecife&amp;src=Y19pdmJjNWpyOWM5b3M5OWZtaWdkOHBudDVmc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%239E69AF" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FRecife&amp;src=Y19pdmJjNWpyOWM5b3M5OWZtaWdkOHBudDVmc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%239E69AF" style="border:solid 1px #777" width="400" height="300" frameborder="0" scrolling="no"></iframe>
 
 
 15:00 UTC: Welcome + Keynote ([Alexis Hope](http://www.alexishope.com/))
