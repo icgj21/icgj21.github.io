@@ -148,7 +148,7 @@ Alexis Hope is an artist, designer, and researcher. She serves as the Design Dir
 	Darshana Jayemanne, Abertay University (UK)
 	Foaad Khosmood, California Polytechnic State University (USA)
 	Hanna Wirman, IT University of Copenhagen (Denmark)
-	Ian Schreiber, Rochester Institute of Technology (USA)
+	Ian Schreiber, Oxide Games (USA)
 	Ida Jørgensen, IT University of Copenhagen (Denmark)
 	Ida Toft, Concordia University (Canada)
 	Johanna Pirker, Graz University of Technology (Austria)
