@@ -80,13 +80,16 @@ The link for registering to our conference is available at [Eventbrite](https://
 
 ### Conference Calendar
 
-Add ICGJ'21 to your calendar. Please notice that the event starts at 15:00 UTC timezone.
+Add ICGJ'21 to your calendar. Please notice that the event starts at 15:00 UTC timezone. Connection details for the videoconferencing tools will be emailed to registered participants in the day of the conference.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=UTC&amp;src=Y19pdmJjNWpyOWM5b3M5OWZtaWdkOHBudDVmc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%239E69AF&amp;showTitle=1&amp;showNav=0&amp;showDate=1&amp;mode=AGENDA&amp;showTabs=0&amp;title=ICGJ&#39;21" style="border:solid 1px #777" width="400" height="300" frameborder="0" scrolling="no"></iframe>
 
 
 
 ### Conference Detailed Program
+
+*We will use [Zoom](https://zoom.us/) for videoconferencing.* 
+
 15:00 UTC: Welcome + Keynote ([Alexis Hope](http://www.alexishope.com/))
 
 16:00 UTC: Break 
