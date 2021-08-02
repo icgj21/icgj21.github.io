@@ -116,12 +116,12 @@ Add ICGJ'21 to your calendar. Please notice that the event starts at 15:00 UTC t
 
 - Full paper: *An Exploratory Study on the participation of LGBTQIA+ people in the Global Game Jam 2021* (Dayanne Oliveira, Rafa Prado, Kiev Gama and George Valença.)
 - Full paper: *Taking the Challenge: An Exploratory Study on What Motivates Jammers to Participate in Game Jams* (Leandro Almeida, Cleidson de Souza, Marcelo Perin, Fernando Figueira Filho, Any Batista and Fabio da Silva Jr.)
-- Short paper: *Expert-driven Game Jams for Open Online Learning: Lessons Learned from Four Games Now! Online Game Jams during the COVID-19 Pandemic* (Annakaisa Kultima, Ville Kankainen, Solip Park, Riikka Aurava, Laura Piispanen and Tomi Kauppinen)
+- Short paper: *Expert-Driven (Online) Game Jams for (Game) Design Education* (Annakaisa Kultima, Ville Kankainen, Solip Park, Riikka Aurava, Laura Piispanen and Tomi Kauppinen)
 - Event report: *Organizing online hackathons for newcomers to a scientific community - Lessons learned from two events* (Jeaime Powell, Linda Bailey Hayden, Amy Cannon, Boyd Wilson and Alexander Nolte)
 
 19:45 UTC: Final announcements
 
-20:00 UTC: Online social event
+20:00 UTC: Town hall meeting and Online social event
 
 ### Conference Keynote Speaker
 
