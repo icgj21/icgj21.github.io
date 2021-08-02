@@ -96,9 +96,9 @@ Add ICGJ'21 to your calendar. Please notice that the event starts at 15:00 UTC t
 
 16:15 UTC: Session 1 (Chair: Jeanette Falk)
 
-- Full paper: *Two Decades of Game Jam* (Gorm Lai, Annakaisa Kultima, Foaad Khosmood, Johanna Pirker, Allan Fowler, Ilaria Vecchi, William Latham and Frederic Fol Leymarie)
 - Full paper: *Game Jam Natives? The Rise of the Game Jam Era in Game Development Cultures* (Annakaisa Kultima)
 - Short paper: *Negative Game Jam Experiences* (Annakaisa Kultima)
+- Full paper: *Two Decades of Game Jam* (Gorm Lai, Annakaisa Kultima, Foaad Khosmood, Johanna Pirker, Allan Fowler, Ilaria Vecchi, William Latham and Frederic Fol Leymarie)
 - Event report: *Pizza and Coffee Make a Game Jam - Learnings from Organizing an Online Game Development Event* (Elina Koskinen) 
 
 17:15 UTC: Break
