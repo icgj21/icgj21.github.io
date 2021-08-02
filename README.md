@@ -94,7 +94,7 @@ Add ICGJ'21 to your calendar. Please notice that the event starts at 15:00 UTC t
 
 16:00 UTC: Break 
 
-16:15 UTC: Session 1 
+16:15 UTC: Session 1 (Chair: Jeanette Falk)
 
 - Full paper: *Two Decades of Game Jam* (Gorm Lai, Annakaisa Kultima, Foaad Khosmood, Johanna Pirker, Allan Fowler, Ilaria Vecchi, William Latham and Frederic Fol Leymarie)
 - Full paper: *Game Jam Natives? The Rise of the Game Jam Era in Game Development Cultures* (Annakaisa Kultima)
@@ -103,7 +103,7 @@ Add ICGJ'21 to your calendar. Please notice that the event starts at 15:00 UTC t
 
 17:15 UTC: Break
 
-17:30 UTC: Session 2
+17:30 UTC: Session 2 (Chair: Gorm Lai)
 
 - Full paper: *How Organisers Understand and Promote Participants’Creativity in Game Jams* (Jeanette Falk, Michael Mose Biskjaer, Kim Halskov and Annakaisa Kultima)
 - Full paper: *Leadership Styles of Game Jam Organizers* (Travis Faas and Zhicong Lu)
@@ -112,7 +112,7 @@ Add ICGJ'21 to your calendar. Please notice that the event starts at 15:00 UTC t
 
 18:30 UTC: Break
 
-18:45 UTC: Session 3
+18:45 UTC: Session 3 (Chair: Alexey Izvalov)
 
 - Full paper: *An Exploratory Study on the participation of LGBTQIA+ people in the Global Game Jam 2021* (Dayanne Oliveira, Rafa Prado, Kiev Gama and George Valença.)
 - Full paper: *Taking the Challenge: An Exploratory Study on What Motivates Jammers to Participate in Game Jams* (Leandro Almeida, Cleidson de Souza, Marcelo Perin, Fernando Figueira Filho, Any Batista and Fabio da Silva Jr.)
